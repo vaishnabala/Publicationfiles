@@ -1,0 +1,13 @@
+project_id,project,task,Cost Variance (CV),Schedule Variance (SV),description
+0,Project A,Task 5,27079.48,4820.94,Manage project resources and ensure all team members are aligned with the project goals.
+0,Project A,Task 3,9429.65,41465.84,Manage project resources and ensure all team members are aligned with the project goals.
+0,Project A,Task 3,16302.1,23723.81,Perform a detailed analysis of project requirements to ensure all objectives are met.
+0,Project A,Task 1,27371.62,-835.83,Manage project resources and ensure all team members are aligned with the project goals.
+0,Project A,Task 2,-43509.1,-987.25,Develop the project plan and finalize project scope with stakeholders.
+1,Project C,Task 2,42385.77,36793.15,Perform a detailed analysis of project requirements to ensure all objectives are met.
+1,Project C,Task 1,-4552.75,-34797.14,Develop the project plan and finalize project scope with stakeholders.
+31,,Task 5,-5500.15,-1946.22,Identify and mitigate risks that may impact the project timeline or budget.
+32,,Task 5,-30244.2,-32185.57,Identify and mitigate risks that may impact the project timeline or budget.
+33,,Task 2,-6880.82,-41013.25,Conduct a post-implementation review to evaluate project success and identify improvement areas.
+34,,Task 2,2723.56,-25404.79,Conduct a post-implementation review to evaluate project success and identify improvement areas.
+35,,Task 1,-47903.97,-37308.77,Develop the project plan and finalize project scope with stakeholders.
